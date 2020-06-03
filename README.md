@@ -29,3 +29,7 @@ The best way to run our project is to download the .zip files in [release v1.0](
 - pytorch-lightning 0.7.1 or higher
 
 - transformers (Hugging Face) 2.5.1 or higher
+
+## Hardware and run-time expectations
+
+Authors used Intel i7-9th generation personal computers with 64 GB of main memory and NVIDIA 2080 (Max-Q and ti) graphics cards, and various GCP instances. Full evaluation runs for pre-made adversarial samples can be done in a small number of hours. Active attack benchmarks with TextFooler are done in hours for MNLI, but might take days for IMDB. Co-tuning for FACT is expected to run for multiple hours. 
