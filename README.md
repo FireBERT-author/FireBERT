@@ -1,6 +1,14 @@
 # FireBERT
 Hardening BERT classifiers against adversarial attack
 
+Gunnar Mein, UC Berkeley MIDS Program (gunnarmein@berkeley.edu)
+Kevin Hartman, UC Berkeley MIDS Program (kevin.hartman@berkeley.edu)
+Andrew Morris, UC Berkeley MIDS Program (andrew.morris@berkeley.edu)
+
+With many thanks to our advisors: Mike Tamir, PhD, Daniel Cer and Mark Butler for their guidance on this research. And to our significant others as the three of us hunkered down over the three month project.
+
+*Note: This repo used to be anonymous while the paper was in blind review. 
+
 ## Paper
 
 Please read our paper: 
